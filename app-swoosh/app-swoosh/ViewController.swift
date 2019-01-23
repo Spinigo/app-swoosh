@@ -21,7 +21,10 @@ class ViewController: UIViewController {
         
         // x middle of view adjusted with width of image to get middle of image in the middle of the view
     }
-
-
+    
+    @IBAction func unwindFromSkillVC(unwindSegue: UIStoryboardSegue) {
+        
+    }
+    
 }
 
